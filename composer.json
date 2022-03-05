@@ -1,0 +1,15 @@
+{
+    "name": "inspaya/bonus_streetlights",
+    "autoload": {
+        "psr-4": {
+            "Inspaya\\BonusStreetlights\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muizudeen Kusimo",
+            "email": "muizz@inspaya.com"
+        }
+    ],
+    "require": {}
+}
